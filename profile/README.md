@@ -1,3 +1,3 @@
 ## Balancer
 
-Balancer makes accounting and finance software.
+We make accounting and finance software.
